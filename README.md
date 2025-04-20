@@ -1,4 +1,10 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/XdJZngj4)
+<p align="center">
+  <a href="https://classroom.github.com/a/XdJZngj4">
+    <img src="https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg" alt="Review Assignment Due Date">
+  </a>
+</p>
+
+
 # Tarea: Regresión
 
 **Curso:** Redes Neuronales y Aprendizaje Profundo  
